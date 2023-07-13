@@ -23,11 +23,11 @@ python -m venv age_detector
 5. Activate the virtual environment:
    - On Windows:
    ```
-   .\venv\Scripts\activate
+   .\age_detector\Scripts\activate
    ```
    - On macOS and Linux:
    ```
-   source venv/bin/activate
+   source age_detector/bin/activate
    ```
 6. Install the required Python packages from `requirements.txt`:
 ```
