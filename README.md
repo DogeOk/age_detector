@@ -1,10 +1,10 @@
-# Age detect
+# Age detecting
 
-Project for detecting person age on images.
+Project for detecting a person's age in images.
 
 [Used Dataset](https://www.kaggle.com/datasets/abhikjha/appa-real-face-cropped)
 
-`train_model.py` and `split_data.ipynb` contains code for training similar model.
+`train_model.py` and `split_data.ipynb` contain code for training a similar model.
 
 ## How to launch
 1. [Download and install Python](https://www.python.org/downloads/)
@@ -33,7 +33,7 @@ python -m venv age_detector
 ```
 pip install -r requirements.txt
 ```
-7. Launch project:
+7. Launch the project:
 ```
 python main.py
 ```
